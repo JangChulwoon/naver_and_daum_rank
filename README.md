@@ -1,5 +1,5 @@
 # naver_and_daum_rank
-  위 코드는 Spring 프레임워크를 사용하여 작성되었습니다. 
+  위 코드는 Spring 프레임워크를 사용하여 작성되었습니다.     
   Jsoup를 이용하여 naver 와 daum의 검색어를 가져와 json 형식으로 뿌려주는 형태입니다.
   
 + <h4> 사용방법 </h4>
@@ -18,8 +18,12 @@
 		return map;  
 	}  
 ```
+ 
 
-+ <h4> License </h4>
-  BSD License.
++ <h4> 버전 </h4>
 
-  
+  1.0.0 (2015-12-31)
+
++ <h4> question </h4>
+
+  lusiue@gmail.com
